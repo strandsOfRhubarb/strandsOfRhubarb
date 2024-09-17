@@ -1,5 +1,7 @@
 # Hello everybody my name is welcome
-* I'm portugal
+* i suck at programming
+* i suck at life
+* i grind lichen down to a fine powder and insert it into my nostrils
 
 
 <!---
