@@ -14,7 +14,7 @@
 4. agi
 5. agilao
 6. agidyne
-\                          _-.__._
+```\                          _-.__._
 \                        /        \
 \                       | ___   __ |
 \                      /  0   | 0   \
@@ -29,6 +29,7 @@
 \  /                   |                --\
 \ /                    /                   |
 \/                    |                    |
+```
 <!---
 strandsOfRhubarb/strandsOfRhubarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
